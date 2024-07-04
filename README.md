@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/66868ea49fbd874667e37572?variant=dark&roadmaps=devops)](https://roadmap.sh)
 <!--
 **Desaydrone/desaydrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
