@@ -3,7 +3,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/66868ea49fbd874667e37572?variant=dark&roadmaps=linux%2Cdevops)](https://roadmap.sh)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=desaydrone&theme=nord&no-frame=true&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=desaydrone&theme=nord&no-frame=true&no-bg=true)]
 <!--
 **Desaydrone/desaydrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
